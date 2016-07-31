@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <color name="black_tranl">#80000000</color>
+    <color name="main_gray">#aaaaaa</color>
+    <color name="main_text">#3e3e3e</color>
+    <color name="main_bg">#eeeeee</color>
+    <color name="main_red">#f0714e</color>
+</resources>

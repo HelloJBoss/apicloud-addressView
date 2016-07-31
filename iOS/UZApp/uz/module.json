@@ -1,0 +1,6 @@
+[{
+ "name":"addressView",
+ "class":"UIAddressView",
+ "methods":["open","show"]
+}
+]

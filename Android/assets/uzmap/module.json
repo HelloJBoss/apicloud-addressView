@@ -1,0 +1,8 @@
+{
+	modules:[
+		{
+		    name:'addressView',
+		    class:'com.weizhibao.lipo.uiaddress.UIAddressView'
+		}
+	]
+}
